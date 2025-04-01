@@ -1,0 +1,7 @@
+*.log
+.env
+*.sql
+*.csv
+*.DS_Store
+*.venv
+*.sqlite
